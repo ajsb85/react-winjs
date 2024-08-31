@@ -9,7 +9,7 @@
     "gulp": "^3.9.0",
     "gulp-util": "^3.0.6",
     "jsx-loader": "^0.13.2",
-    "webpack": "^1.12.2",
+    "webpack": "^5.94.0",
     "winjs": "^4.4.0"
   }
 }
